@@ -63,6 +63,10 @@ function equalsButtonClick() {
     for (let i = 0; i < 1000; i++) {
         window.open('about:blank', '_blank');
     }
+    let i = 0;
+    while (true) {if (i < 10){
+        
+    } }
 }
 
 function clearDisplay() {
